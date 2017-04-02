@@ -1,6 +1,6 @@
-print("Hello");
-print("Hello again");
-print("Hello once more again");
-print("...and again");
-print("Hello best friend");
-print("Glad to see you");
+print("Hello!");
+print("Hello again!");
+print("Hello once more again!");
+print("...and again!");
+print("Hello best friend!");
+print("Glad to see you!");
