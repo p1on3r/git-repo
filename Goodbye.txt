@@ -1,2 +1,2 @@
-print("Goodbye");
-and another string
+new string
+and another one
